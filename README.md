@@ -4,7 +4,7 @@ This file format will only work on Windows. If you are willing to convert this i
 
 # How to use
 <h3>Make sure you have a working java runtime enviroment, If you do not please download one from <a href="https://java.com">here</a>.<br>
-A stable internet connection is needed to download the selected jarfile</h3>
+A stable internet connection is needed to download jarfiles</h3>
 
 Download and extract the most recent release and run 'AMSD.cmd'
 
