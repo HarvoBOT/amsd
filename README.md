@@ -3,8 +3,8 @@ A simple Batch script that automatically downloads, installs and runs Minecraft 
 This file format will only work on Windows. If you are willing to convert this into a bash file for mac and linux users please contact me on dicord at Harvo#9744
 
 # How to use
-Make sure you have a working java runtime enviroment, If you do not please download one from <a href="https://java.com">here</a>.<br>
-A stable internet connection is needed to download the selected jarfile
+<h3>Make sure you have a working java runtime enviroment, If you do not please download one from <a href="https://java.com">here</a>.<br>
+A stable internet connection is needed to download the selected jarfile</h3>
 
 Download and extract the most recent release and run 'AMSD.cmd'
 
